@@ -5,6 +5,14 @@ function add(num1, num2) {
   return sum;
 }
 
+function multiply(num1, num2) {
+  //   console.log("Wordt ik aangroepen");
+  console.log("INPUT:", num1, num2);
+  const result = num1 * num2;
+  console.log("RESULT:", result);
+  return result;
+}
+
 function findByName(users, name) {
   //   console.log("INPUT:", users, name);
   // 1. X loop maken
