@@ -11,6 +11,6 @@
   - [x] Arrange (klaarzetten)
   - [x] Act (handelen)
   - [x] Assert (beweringen)
-- [ ] Je weet hoe je de Jest `expect` functie kan gebruiken
-- [ ] Je weet hoe je je code los kan koppelen van het test bestand
+- [x] Je weet hoe je de Jest `expect` functie kan gebruiken
+- [x] Je weet hoe je je code los kan koppelen van het test bestand
 - [ ] Je weet het verschil tussen Unit, Integration en End to End tests
