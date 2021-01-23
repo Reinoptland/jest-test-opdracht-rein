@@ -9,10 +9,10 @@ Maak een programmeer oefening voor een ander!
 
 5. [x] Voeg een git repo toe aan je project
 6. [x] Push je main branch
-7. [ ] Switch naar een branch "solutions"
-8. [ ] Push je solutions branch
-9. [ ] Switch naar de main branch
-10. [ ] Verwijder je oplossing (zodat iemand je test kan oplossen)
+7. [x] Switch naar een branch "solutions"
+8. [x] Push je solutions branch
+9. [x] Switch naar de main branch
+10. [x] Verwijder je oplossing (zodat iemand je test kan oplossen)
 11. [ ] Push nogmaals naar de main branch
 
 Wil je een oefening maken?
