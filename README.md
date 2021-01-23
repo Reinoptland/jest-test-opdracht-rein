@@ -13,4 +13,4 @@
   - [x] Assert (beweringen)
 - [x] Je weet hoe je de Jest `expect` functie kan gebruiken
 - [x] Je weet hoe je je code los kan koppelen van het test bestand
-- [ ] Je weet het verschil tussen Unit, Integration en End to End tests
+- [x] Je weet het verschil tussen Unit, Integration en End to End tests

@@ -6,7 +6,7 @@ function add(num1, num2) {
 }
 
 function findByName(users, name) {
-  console.log("INPUT:", users, name);
+  //   console.log("INPUT:", users, name);
   // 1. X loop maken
   // 2. X if statement: is de name hetzelfde als de naam uit het object?
   // 3. X zo ja return dat object
