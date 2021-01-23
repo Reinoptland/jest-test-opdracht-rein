@@ -6,7 +6,7 @@
 - [x] Je kan de voordelen van automated tests uitleggen
 - [x] Je weet dat Jest een JavaScript test framework is
 - [x] Je weet waar je de documentatie van Jest kan vinden
-- [ ] Je weet hoe je met behulp van Jest automated tests kan opzetten
+- [x] Je weet hoe je met behulp van Jest automated tests kan opzetten
 - [ ] Je kan in een test 3 delen onderscheiden
   - [ ] Arrange (klaarzetten)
   - [ ] Act (handelen)

@@ -4,7 +4,8 @@
   "description": "Oefen met testen",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
   },
   "keywords": [
     "jest",

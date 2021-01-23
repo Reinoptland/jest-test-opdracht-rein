@@ -51,3 +51,15 @@ Jest bevat
 - Nog veel meer ...
 
 [DOCS](https://jestjs.io/docs/en/getting-started)
+
+## Opzetten
+
+1. `npm init`
+2. `npm install -D jest`
+3. (optioneel) git init -> node_modules in een .gitignore
+4. Maak een bestandje met .test.js als extensie
+5. Dan schrijf een test functie (voorbeeld)
+6. `npx jest` om de testen te runnen
+7. Voeg scripts toe aan je package.json
+8. `npx jest --watch` -> runnen de testen bij een verandering
+9. CTRL + C om de testen te stoppen in de terminal
