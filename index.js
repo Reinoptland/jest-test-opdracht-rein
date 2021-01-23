@@ -36,4 +36,5 @@ function findByName(users, name) {
 module.exports = {
   add: add,
   findByName: findByName,
+  multiply: multiply,
 };
