@@ -13,11 +13,12 @@ Maak een programmeer oefening voor een ander!
 8. [x] Push je solutions branch
 9. [x] Switch naar de main branch
 10. [x] Verwijder je oplossing (zodat iemand je test kan oplossen)
-11. [ ] Push nogmaals naar de main branch
+11. [x] Push nogmaals naar de main branch
 
 Wil je een oefening maken?
 
-1. [ ] Clone de repo
-2. [ ] `cd <reponaam>`
-3. [ ] run `npm install`
-4. [ ] run `npx jest --watch` om de testen te starten
+1. [x] Clone de repo
+2. [x] `cd <reponaam>`
+3. [x] run `npm install`
+4. [x] run `npx jest --watch` om de testen te starten
+5. [x] los de oefening op!
